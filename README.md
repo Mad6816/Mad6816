@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mad6816
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate to work on a app
+- 🌱 I’m currently learning C#
+- work on a app
 - 📫 How to reach me ...
 
 <!---
